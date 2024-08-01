@@ -16,6 +16,22 @@
     /* Ensure it's above other elements */
 
 }
+.back_section{
+    width: 100%;
+    height: 100vh;
+    background-image: url('../assets/noova.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    margin-bottom: 50px;
+    position: sticky;
+    top: 0;
+    z-index: 12;
+}
 
 .title_service{
     font-family: 'Coolvetica Crammed Regular', sans-serif;

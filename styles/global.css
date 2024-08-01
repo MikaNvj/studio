@@ -1,18 +1,18 @@
 @font-face {
   font-family: 'Coolvetica Crammed Regular';
-  src: url('../public/font/coolvetica-crammed-rg.woff') format('woff');
+  src: url('/assets/font/coolvetica-crammed-rg.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'Nexa bold';
-  src: url('../public/font/Nexa-Heavy.woff') format('woff');
+  src: url('/assets/font/Nexa-Heavy.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'Nexa rg';
-  src: url('../public/font/Nexa-ExtraLight.woff') format('woff');
+  src: url('/assets/font/Nexa-ExtraLight.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
