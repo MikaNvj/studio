@@ -48,14 +48,14 @@
 }
 @media (max-width: 800px) {
     .title_work{
-      font-size: 100px;
+      font-size: 20px;
       height: fit-content;
     }
 
   }
   @media (max-width: 300px) {
     .title_work{
-      font-size: 60px;
+      font-size: 20px;
       height: fit-content;
     }
 
