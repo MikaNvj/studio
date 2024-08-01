@@ -48,6 +48,10 @@
     width: 100%;
 }
 @media (max-width: 800px) {
+  .cardwork{
+    width: 400px;
+    height: 200px;
+  }
     .title_work{
       font-size: 20px;
       height: fit-content;
