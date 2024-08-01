@@ -49,6 +49,9 @@
       width: 98%;
       padding: 4px;
     }
+    .cardContainer{
+      padding: 20px 0px;
+    }
     
   }
   @media (max-width: 400px) {
