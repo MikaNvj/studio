@@ -24,7 +24,7 @@ export default function Worktwo() {
 
         cards.map( (carde, i) => {
 
-          return <Card key={i} card={carde}/>
+          return <Card key={i} mg={carde.url}/>
 
         })
 
@@ -38,37 +38,29 @@ export default function Worktwo() {
 const cards = [
   {
     url: lg1,
-    title: "Title 1",
-    id: 1,
+
   },
   {
     url: lg2,
-    title: "Title 2",
-    id: 2,
   },
   {
     url: lg3,
-    title: "Title 3",
-    id: 3,
+
   },
   {
     url: lg4,
-    title: "Title 4",
-    id: 4,
+
   },
   {
     url: lg5,
-    title: "Title 5",
-    id: 5,
+
   },
   {
     url: lg6,
-    title: "Title 6",
-    id: 6,
+
   },
   {
     url: lg7,
-    title: "Title 7",
-    id: 7,
+
   },
 ];

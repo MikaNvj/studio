@@ -4,7 +4,7 @@ import styles from '../../styles/card.module.css';
 
 
 
-const Card = ({ card }) => {
+const Card = ({ mg }) => {
 
 
 
@@ -20,7 +20,7 @@ const Card = ({ card }) => {
       >
         <Image
           className={styles.img}
-          src={card.url}
+          src={mg}
 
           alt="Picture of the author" />
 
