@@ -43,6 +43,9 @@
     .footer_center h1{
       display: none;
     }
+    .footer_top h3{
+        font-size: 20;
+    }
     
   }
 
