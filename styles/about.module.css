@@ -65,8 +65,11 @@
   }
   @media (max-width: 500px) {
     .title_about{
-      font-size: 50px;
+      font-size: 20px;
       height: fit-content;
+    }
+    .paragraphe p{
+        font-size: 16px;
     }
     
   }
