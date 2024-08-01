@@ -23,6 +23,7 @@
     /* flex gap-4 */
     display: flex;
     gap: 4px;
+    scroll-behavior: smooth;
 }
 .title_work {
     font-family: 'Coolvetica Crammed Regular', sans-serif;
