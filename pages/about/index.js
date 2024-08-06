@@ -17,6 +17,44 @@ export default function About() {
                 </div>
                 <div className={styles.paragraphe}>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+                    <div className={styles.logo}>
+                    <Image className={styles.logos}
+                        src={lg}
+                        width={'5%'}
+                        height={'5%'}
+                        alt="Picture of the author"
+                    /><Image className={styles.logos}
+                    src={lg}
+                    width={'50%'}
+                    height={'50%'}
+                    alt="Picture of the author"
+                /><Image className={styles.logos}
+                src={lg}
+                width={'50%'}
+                height={'50%'}
+                alt="Picture of the author"
+            /><Image className={styles.logos}
+            src={lg}
+            width={'50%'}
+            height={'50%'}
+            alt="Picture of the author"
+        /><Image className={styles.logos}
+        src={lg}
+        width={'50%'}
+        height={'50%'}
+        alt="Picture of the author"
+    /><Image className={styles.logos}
+    src={lg}
+    width={'50%'}
+    height={'50%'}
+    alt="Picture of the author"
+/><Image className={styles.logos}
+        src={lg}
+        width={'50%'}
+        height={'50%'}
+        alt="Picture of the author"
+    />
+                    </div>
                 </div>
             </div>
         </div>
