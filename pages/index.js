@@ -7,10 +7,12 @@ import Work from './work';
 import Worktwo from './work2';
 import Back from './background';
 import Footer from './footer';
+import CursorFollower from './cursor';
 
 export default function Home() {
   return (
     <div className={styles.container}>
+      <CursorFollower/>
        <Homes/>
        <About/>
        <Services/>

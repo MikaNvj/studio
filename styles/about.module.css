@@ -40,11 +40,11 @@
 .paragraphe{
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
 }
 .paragraphe p{
-    margin-top: 15px;
+    /* margin-top: 15px; */
     width: 60%;
     font-family: 'Nexa-ExtraLight', sans-serif;
     color: black;

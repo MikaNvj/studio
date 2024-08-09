@@ -11,10 +11,10 @@
     background-color: white;
 }
 .cardwork{
-    background-color: red;
+    /* background-color: red; */
     /* "group relative h-[450px] w-[450px] overflow-hidden bg-neutral-200" */
     position: relative;
-    height: 350px;
+    height: 50vh;
     border-radius: 16px;
     width: 550px;
     overflow: hidden;
@@ -51,7 +51,7 @@
 @media (max-width: 800px) {
   .cardwork{
     width: 400px;
-    height: 200px;
+    /* height: 200px; */
   }
     .title_work{
       font-size: 40px;
