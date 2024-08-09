@@ -16,7 +16,8 @@ export default function About() {
                     />
                 </div>
                 <div className={styles.paragraphe}>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+                    <p>NOOVA fusionne l'art et la technologie pour vous créer des visuels percutants, des sites élégants et des animations captivantes. Chaque projet est un nouvelle opportunité de raconter votre histoire de manière unique.
+                    Avec une équipe passionnée de designers, de développeurs et de créatifs, nous mettons notre expertise au service de vos ambitions. Nous donnons vie à vos idées de la création graphique au motion design, en passant par le développement de sites web sur mesure</p>
                     <div className={styles.logo}>
                     <Image className={styles.logos}
                         src={lg}
