@@ -1,6 +1,6 @@
 .back_section {
     width: 100%;
-    height: 100vh;
+    height: auto;
     background-image: url('../assets/noova.png');
     background-repeat: no-repeat;
     background-size: cover;
@@ -10,7 +10,7 @@
     align-items: center;
     text-align: left;
     color: white;
-    position: sticky;
+    /* position: sticky; */
     top: 0;
     z-index: 15;
 }
@@ -48,7 +48,7 @@
 }
 @media (max-width: 500px) {
     .accordion{
-      padding: 8px;
+      padding: 4px;
       width: 90%;
     }
 
@@ -67,11 +67,11 @@
     display: flex;
     gap: 24px;
     align-items: center;
-    color: white;
+    color: rgb(18, 0, 53);
     padding: 1rem;
     position: relative;
     border-radius: 8px;
-    background-color: rgb(55, 0, 122);
+    background-color: #00FFEA;
     /* background-image: linear-gradient(to right, var(--primary-color) 0%, var(--third-color) 51%, var(--secondary-color) 100%); */
     box-shadow: 2px 3px 8px 5px rgba(0, 0, 0, 0.089);
 }
@@ -94,6 +94,13 @@
     padding-top: 2svh;
     margin: 3svh;
 }
+@media (max-width: 500px) {
+    .title_faq{
+      font-size: 40px!important;
+    }
+
+    
+  }
 
 .accordion .paragraphe {
     color: white;

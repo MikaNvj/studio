@@ -1,6 +1,7 @@
 .footer_section{
     width: 100%;
     height: 100vh;
+    background-color: rgb(6, 0, 43);
     /* background-image: url('../assets/noova.png'); */
     background-repeat: no-repeat;
     background-size: cover;
@@ -32,7 +33,8 @@
 
 }
 .footer_top h3 {
-    font-family: 'Coolvetica Crammed Regular', sans-serif;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 900;
     color: rgb(0, 0, 0);
     font-size: 50px;
     margin: 0%;
@@ -64,9 +66,10 @@
     align-items: center;
 }
 .footer_center h1 {
-    font-family: 'Coolvetica Crammed Regular', sans-serif;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 900;
     color: rgb(0, 0, 0);
-    font-size: 200px;
+    font-size: 150px;
     line-height: 85%;
     margin: 0%;
     text-transform: uppercase;
