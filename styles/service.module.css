@@ -34,12 +34,13 @@
 }
 
 .title_service{
-    font-family: 'Coolvetica Crammed Regular', sans-serif;
+    font-family: "Bebas Neue", sans-serif;
+  font-weight: 900;
     color: white;
-    font-size: 400px;
+    font-size: 200px;
     margin: 0%;
-    letter-spacing: 16px;
-    height: 400px;
+    /* letter-spacing: 16px; */
+    /* height: 400px */
 }
 .service_wrap{
     display: flex;

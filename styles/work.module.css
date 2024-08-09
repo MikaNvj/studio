@@ -26,7 +26,8 @@
     scroll-behavior: smooth;
 }
 .title_work {
-    font-family: 'Coolvetica Crammed Regular', sans-serif;
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 900;
     color: rgb(0, 13, 54);
     text-transform: uppercase;
     font-size: 200px;
@@ -53,7 +54,7 @@
     height: 200px;
   }
     .title_work{
-      font-size: 20px;
+      font-size: 40px;
       height: fit-content;
       letter-spacing: 5px;
     }
@@ -61,7 +62,7 @@
   }
   @media (max-width: 300px) {
     .title_work{
-      font-size: 20px;
+      font-size: 30px;
       height: fit-content;
       letter-spacing: 5px;
     }

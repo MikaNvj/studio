@@ -38,12 +38,13 @@
 }
 
 .title_hero {
-    font-family: 'Coolvetica Crammed Regular', sans-serif;
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 900;
     color: white;
-    font-size: 400px;
+    font-size: 250px;
     margin: 0%;
+    height: 250px;
     letter-spacing: 16px;
-    height: 400px;
     animation: op 3s;
 }
 
@@ -59,7 +60,7 @@
     border: none;
     padding: 16px 40px;
     color: black;
-    transform: translateY(200%);
+    transform: translateY(50%);
     font-weight: bold;
     background-color: #00FFEA;
     cursor: pointer;
@@ -76,7 +77,7 @@
   }
   @media (max-width: 600px) {
     .title_hero{
-      font-size: 50px;
+      font-size: 90px;
       text-align: center;
       height: fit-content;
     }

@@ -1,5 +1,7 @@
 import styles from '../../styles/hero.module.css';
 
+
+
 export default function Homes() {
   return (
     <div className={styles.hero_section}>
